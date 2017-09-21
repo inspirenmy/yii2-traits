@@ -2,7 +2,7 @@
 
 namespace inspirenmy\traits;
 
-use inspirenmy\helpers\ReflectionHelper;
+use demmonico\helpers\ReflectionHelper;
 use Yii;
 
 
