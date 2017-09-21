@@ -4,7 +4,7 @@
  * Date: 08.07.16
  */
 
-namespace demmonico\traits;
+namespace inspiren\traits;
 use Yii;
 use yii\widgets\ActiveForm;
 

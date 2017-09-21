@@ -1,8 +1,8 @@
 <?php
 
-namespace demmonico\traits;
+namespace inspiren\traits;
 
-use demmonico\helpers\ReflectionHelper;
+use inspiren\helpers\ReflectionHelper;
 use Yii;
 
 

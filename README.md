@@ -11,7 +11,7 @@ Trait add perform ajax validation to models and forms.
 
 #####Usage:
 
-use [demmonico\models\Model](https://github.com/demmonico/yii2-models) as parent or set in you model
+use [inspiren\models\Model](https://github.com/inspiren/yii2-models) as parent or set in you model
 
 ```php
 use AjaxValidationTrait;
