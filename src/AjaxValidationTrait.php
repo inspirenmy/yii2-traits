@@ -4,7 +4,7 @@
  * Date: 08.07.16
  */
 
-namespace inspiren\traits;
+namespace inspirenmy\traits;
 use Yii;
 use yii\widgets\ActiveForm;
 

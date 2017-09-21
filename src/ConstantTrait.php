@@ -1,8 +1,8 @@
 <?php
 
-namespace inspiren\traits;
+namespace inspirenmy\traits;
 
-use inspiren\helpers\ReflectionHelper;
+use inspirenmy\helpers\ReflectionHelper;
 use Yii;
 
 
