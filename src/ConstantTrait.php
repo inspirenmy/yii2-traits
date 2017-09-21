@@ -19,10 +19,11 @@ use Yii;
  */
 trait ConstantTrait
 {
-    public function __call($name, $arguments)
-    {
-        return static::getConstantNames($name, $arguments);
-    }
+    // Temp fix for Calling unknown method
+    // public function __call($name, $arguments)
+    // {
+    //     return static::getConstantNames($name, $arguments);
+    // }
 
     public static function __callStatic($name, $arguments)
     {
